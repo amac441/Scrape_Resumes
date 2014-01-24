@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Scrape_Resumes", "Scrape_Resumes\Scrape_Resumes.pyproj", "{2EFA7EFD-44F6-4CFB-A101-6F686138C45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EFA7EFD-44F6-4CFB-A101-6F686138C45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFA7EFD-44F6-4CFB-A101-6F686138C45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFA7EFD-44F6-4CFB-A101-6F686138C45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFA7EFD-44F6-4CFB-A101-6F686138C45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
